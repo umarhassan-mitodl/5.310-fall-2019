@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains information on course format, requirements, and
   grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

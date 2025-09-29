@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes descriptions and instructions for each of the 5
   laboratory experiments in the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
@@ -81,7 +83,7 @@ Ellen Swallow Richards Lab
 {{< tdopen >}}
 
 
-This is an integrated experiment, which combines techniques from organic, biological, physical, food, and analytical chemistry. Its purpose is to introduce students to {{% resource_link "0018d8e6-abbd-4dc1-bac9-ac53b38696a5" "Ellen Swallow Richards" %}}.
+This is an integrated experiment, which combines techniques from organic, biological, physical, food, and analytical chemistry. Its purpose is to introduce students to [Ellen Swallow Richards](https://www.britannica.com/biography/Ellen-Swallow-Richards).
 
 *   The atomic absorption method and Inductively Coupled Plasma Mass Spectrometry (ICP-MS) as analytical techniques.
 *   UV-VIS Spectrophotometric analysis.
@@ -167,7 +169,7 @@ This is an integrated experiment, which combines techniques from organic, thermo
 
 Also see:
 
-Bruker NMR Automation use. By John H. Grimes, {{% resource_link "fe1d6d4e-dcbe-4747-bbb1-04c65861c858" "MIT Department of Chemistry Instrumentation Facility" %}}.
+Bruker NMR Automation use. By John H. Grimes, [MIT Department of Chemistry Instrumentation Facility](https://chemistry.mit.edu/facilities-and-centers/department-of-chemistry-instrumentation-facility-dcif/).
 
 
 {{< tdclose >}}
