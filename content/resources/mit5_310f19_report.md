@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-310-laboratory-chemistry-fall-2019/eb8333c0b447ddf2e504b3a34d40721e_MIT5_310F19_report.pdf
 file_size: 187980
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

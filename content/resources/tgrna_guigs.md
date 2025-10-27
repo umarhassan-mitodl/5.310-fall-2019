@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-310-laboratory-chemistry-fall-2019/8b924dd1604960972b6e7e53f64a4252_TgrNa_Guigs.srt
 file_size: 71580
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

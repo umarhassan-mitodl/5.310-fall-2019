@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-310-laboratory-chemistry-fall-2019/26aeaf1fe9a69da284cd5e8fd1d5b460_LNCLrmAvSlU.pdf
 file_size: 69241
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

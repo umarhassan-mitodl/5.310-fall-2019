@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains a list of required readings for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -18,7 +16,7 @@ Required Text
 Recommended
 -----------
 
-\[SWH\] = Skoog, West, et al. _Fundamentals of Analytical Chemistry_. 9{{< sup "th" >}} ed. Brooks Cole, 2013. ISBN: 9780495558286. \[Preview with [Google Books](http://books.google.com/books?id=8bIWAAAAQBAJ&pg=PAfrontcover)\]
+\[SWH\] = Skoog, West, et al. _Fundamentals of Analytical Chemistry_. 9{{< sup "th" >}} ed. Brooks Cole, 2013. ISBN: 9780495558286. \[Preview with {{% resource_link "1c4a9972-7604-4e09-b841-6a91f97e89ce" "Google Books" %}}\]
 
 \[S&L\] = Skoog, Holler, and Crouch. _Principles of Instrumental Analysis_. 6{{< sup "th" >}} ed. CL, 2007. ISBN: 9788131525579.
 
@@ -93,7 +91,7 @@ Ellen Swallow Richards Lab
 
 \[MHS\] Chapter 25: UV & VIS Spectroscopy, pp. 465–475.
 
-Michaud, Joy. Chapter 4 in [_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)](https://fortress.wa.gov/ecy/publications/documents/94149.pdf). Puget Sound Water Quality Authority, 1991, pp. 45–58. 
+Michaud, Joy. Chapter 4 in {{% resource_link "36ca0138-22be-4d0a-8d86-62e4fdbc101e" "_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)" %}}. Puget Sound Water Quality Authority, 1991, pp. 45–58. 
 
 ### Review
 

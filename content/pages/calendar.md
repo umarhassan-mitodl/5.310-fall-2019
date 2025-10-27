@@ -2,8 +2,6 @@
 content_type: page
 description: This section lists the topics of each lab and lecture session, as well
   as key due dates for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
